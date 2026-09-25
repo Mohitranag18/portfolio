@@ -8,7 +8,7 @@ export const profile = {
     "Backend engineer who builds scalable APIs, analytics pipelines and AI-integrated products.",
   intro: [
     "I work across the stack with Python, Go, TypeScript and SQL, and care most about systems that stay simple as they grow. At GobbleCube I cut two modules' code by 50% with a shared abstraction; at FOSSEE, IIT Bombay I rebuilt the Yaksh assessment platform's frontend as a React SPA.",
-    "Outside of work I self-host and tinker with Linux(btw i use arch).",
+    "Outside of work I tinker with Linux(btw i use arch).",
   ],
   openTo: "Full-time roles, freelance and collaborations.",
   email: "mohitr8998@gmail.com",
